@@ -184,16 +184,18 @@
 }
 
 .table__heading {
-line-height: 1.15;
-font-size: 24px;
-font-weight: bold;
+  margin: 0;
+  padding: 0;
+  height: 1.15;
+  font-size: 24px;
+  font-weight: bold;
 }
 
 .table__text {
-margin-top: 20px;
-line-height: 1.2;
-font-size: 18px;
-font-weight: normal;
+  margin-top: 20px;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
 }
 
 .feynman {
@@ -228,14 +230,14 @@ font-weight: normal;
 }
 
 .feynman__link {
-    position: absolute;
-    top: 50%;
-    right: 48px;
-    line-height: 51px;
-    font-size: 36px;
-    font-weight: normal;
-    color: #2f80ed;
-    text-decoration: none;
+  position: absolute;
+  top: 50%;
+  right: 48px;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+  color: #2f80ed;
+  text-decoration: none;
 }
 
 .feynman__image {
@@ -307,7 +309,6 @@ font-weight: normal;
   position: relative;
   justify-content: space-between;
   width: 90%;
-  border: 1px solid red;
 }
 
 .logo_place_footer {
