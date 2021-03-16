@@ -1,7 +1,6 @@
 .techniques {
     display: flex;
     flex-direction: column;
-    position: relative;
     padding-top: 100px;
     align-items: center;
     text-align: center;
