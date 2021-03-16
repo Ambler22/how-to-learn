@@ -1,0 +1,10 @@
+.video {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+    text-align: center;
+    padding-top: 100px;
+    padding-left: auto;
+    padding-right: auto;
+  }
